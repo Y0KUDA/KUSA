@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KUSA/static/css/main.19393e92.chunk.css",
+    "main.js": "/KUSA/static/js/main.02400dc3.chunk.js",
+    "main.js.map": "/KUSA/static/js/main.02400dc3.chunk.js.map",
+    "runtime~main.js": "/KUSA/static/js/runtime~main.86c2c7d5.js",
+    "runtime~main.js.map": "/KUSA/static/js/runtime~main.86c2c7d5.js.map",
+    "static/js/2.d042e1ad.chunk.js": "/KUSA/static/js/2.d042e1ad.chunk.js",
+    "static/js/2.d042e1ad.chunk.js.map": "/KUSA/static/js/2.d042e1ad.chunk.js.map",
+    "index.html": "/KUSA/index.html",
+    "precache-manifest.a446e579dc905f5e5b8ec5f143e56b6f.js": "/KUSA/precache-manifest.a446e579dc905f5e5b8ec5f143e56b6f.js",
+    "service-worker.js": "/KUSA/service-worker.js",
+    "static/css/main.19393e92.chunk.css.map": "/KUSA/static/css/main.19393e92.chunk.css.map"
+  }
+}
